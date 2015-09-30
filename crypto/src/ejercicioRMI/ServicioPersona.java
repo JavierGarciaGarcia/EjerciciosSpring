@@ -15,7 +15,7 @@ import javax.rmi.ssl.SslRMIServerSocketFactory;
 /**
  * @author jaggarcia
  * Servicio encargado de trabajar con la entidad persona
- *
+ * Usa SSL de 1 o 2 vías
  */
 public class ServicioPersona extends UnicastRemoteObject implements IServicioPersonas {
 	
