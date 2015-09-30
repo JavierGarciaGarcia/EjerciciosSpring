@@ -15,6 +15,7 @@ import javax.rmi.ssl.SslRMIServerSocketFactory;
 /**
  * @author jaggarcia
  * zzzzz
+ * yyyyy
  */
 public class ServicioPersona extends UnicastRemoteObject implements IServicioPersonas {
 	
