@@ -9,6 +9,7 @@ import java.rmi.registry.Registry;
 /**
  * @author jaggarcia
  *
+ * 1
  */
 public class PersonasServer {
 	
